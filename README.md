@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm danyPL</h1>
+<h3 align="center">A passionate backend developer from Poland</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on **Ecommerce Shop**<br>🌱 I’m currently learning **GraphQL, TensorFlow, Next JS**<br>
 
